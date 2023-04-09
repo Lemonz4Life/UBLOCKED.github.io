@@ -3,7 +3,7 @@ The official github site for UBLOCKED
 
 If you are a developer and want to add links, you first have to find the string of code;
 
-<div class="wrapper">
+"<div class="wrapper">
     <div class="content-wrap">
         <section>
             <div data-section-name="content" class="jw-section jw-section-content">
@@ -16,7 +16,7 @@ If you are a developer and want to add links, you first have to find the string 
         </section>
         <aside>
                     </aside>
-    </div>
+    </div>"
     
     After you have found this string of code, insert this string of code right after the "</div>"
     
